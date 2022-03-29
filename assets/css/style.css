@@ -153,7 +153,7 @@ nav{
     justify-content: center;
     padding: 17px 24px;
     margin-bottom: -80px;
-    visibility: hidden;
+    opacity: 0;
 }
 .header_con4 img{
     margin-right: 17px;
@@ -162,7 +162,7 @@ nav{
     margin-right: 0;
 }
 .header_con3:hover>.header_con4{
-    visibility: visible;
+    opacity: 1;
 }
 /* section1 */
 .section1_wrapper{
